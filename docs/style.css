@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(113, 177, 174);
+    text-align: center;
+}
+header {
+    color: rgb(42, 46, 46);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+textarea[name="user-input"] {
+
+    background-color: rgb(19, 125, 139);
+    color: rgb(34, 32, 32);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 2px solid rgb(12, 12, 12);
+    width: 1000px;
+    height: 200px;
+}
+.miClase {
+    color:rgb(28, 31, 31);
+    background-color: rgb(31, 139, 153);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: inline;
+    border: 2px solid gray;
+    border-radius: 15px;
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 1px;
+    height: 1px;
+    padding: 0%;
+    box-sizing: border-box;
+}
+#reset-button {
+    color:rgb(58, 63, 63);
+    background-color: rgb(31, 139, 153);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 15px;
+    border: 2px solid gray;
+    font-weight: bold;   
+}
+footer {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(77, 80, 80);
+}
